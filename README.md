@@ -37,3 +37,6 @@ docker.io/library/zookeeper:3.4.9
 
 
 docker login -u cn-east-2@rEFOwa6AZofXKJkJmfbR -p 497b678a8359da2b395d2c7f22d190593ca0c942d09b3c3719dfa1f08f7f 100.125.17.64:20202
+
+
+docker login -u cn-east-2@0xrw5jZ2IrrglEhK1kBF -p 799a7d9c9d06f7e078915a1596c59f17d524fdc109669f5b112ac62e365086d4 100.125.17.64:20202
