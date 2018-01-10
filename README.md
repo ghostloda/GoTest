@@ -34,3 +34,6 @@ husseingalal/redis-config:3.2.8
 
 docker.io/llparse/zookeeper-conf:3.4.9
 docker.io/library/zookeeper:3.4.9
+
+
+docker login -u cn-east-2@rEFOwa6AZofXKJkJmfbR -p 497b678a8359da2b395d2c7f22d190593ca0c942d09b3c3719dfa1f08f7f 100.125.17.64:20202
